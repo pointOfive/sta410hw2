@@ -22,7 +22,7 @@ If for some reason JupyterHub is not loading the repository, you can delete and 
 Alternatively, the programming problems may also be accessed without UofT authentication using 
 [Google Colab](https://colab.research.google.com) via
 
-> https://colab.research.google.com/github/pointOfive/sta410hw0/blob/master/sta410hw2.ipynb
+> https://colab.research.google.com/github/pointOfive/sta410hw0/blob/main/sta410hw2.ipynb
 
 If you're working in some other environment, 
 the versioning there must support [notebook format 4.5](https://github.com/jupyterlab/jupyterlab/issues/9729), e.g.,
