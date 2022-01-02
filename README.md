@@ -12,7 +12,7 @@ underlying the computational efficiency of the following standard use cases for 
 ### Accessing Programming Homework Assignment 2
 UofT students may access this the collection of programming problems with the [UofT JupyterHub](https://jupyter.utoronto.ca) via
 
-> https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw2&branch=master
+> https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw2&branch=main
 
 Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
 If for some reason JupyterHub is not loading the repository, you can delete and reload repositories (after downloading and saving what you need).  
