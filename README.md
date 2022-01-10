@@ -1,6 +1,11 @@
 # UofT STA410/2102 Statistical Computation
 ## Programming Portfolio Assignment 2
 
+Return to STA410 Programming Portfolio Parent Repository [here](https://github.com/pointOfive/STA410_HW/blob/master/README.md#uoft-sta4102102-statistical-computation).
+
+## Submitting Programming Portfolio Assignment 2
+Submit `.ipynb` file to [MarkUs](https://markus-ds.teach.cs.toronto.edu/) before the end of the calendar day (EoD) on the due date.
+
 [Programming Portfolio Assignment 2](sta410hw2.ipynb) explores the quintessential algorithms
 underlying the computational efficiency of the following standard use cases for function:
 
