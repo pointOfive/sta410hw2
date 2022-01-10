@@ -1,7 +1,7 @@
 # UofT STA410/2102 Statistical Computation
-## Programming Homework Assignment 2
+## Programming Portfolio Assignment 2
 
-[Programming Homework Assignment 2](sta410hw2.ipynb) explores the quintessential algorithms
+[Programming Portfolio Assignment 2](sta410hw2.ipynb) explores the quintessential algorithms
 underlying the computational efficiency of the following standard use cases for function:
 
 1. Interpolation with Lagrange piecewise polynomials
@@ -9,7 +9,7 @@ underlying the computational efficiency of the following standard use cases for 
 3. Orthogonal polynomial recurrence formula evaluation 
 4. Time-benchmarking commonly used built-in functions
 
-### Accessing Programming Homework Assignment 2
+### Accessing Programming Portfolio Assignment 2
 UofT students may access this the collection of programming problems with the [UofT JupyterHub](https://jupyter.utoronto.ca) via
 
 > https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw2&branch=main
@@ -28,6 +28,6 @@ Alternatively, the programming problems may also be accessed without UofT authen
 the versioning there must support [notebook format 4.5](https://github.com/jupyterlab/jupyterlab/issues/9729), e.g.,
 [jupyterlab](https://jupyter.org/install) version
 [3.0.13 or greater](https://github.com/jupyterlab/jupyterlab/releases/tag/v3.0.13);
-otherwise, your notebook cell-ids will not be supported and you will not get any credit for your submitted homework.***
+otherwise, your notebook cell-ids will not be supported and you will not get any credit for your submitted work.***
 
 > You may check if cell ids are present or changing at each save with `! grep '"id":' <path/to/notebook>.ipynb`
