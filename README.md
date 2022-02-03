@@ -4,7 +4,7 @@
 Return to STA410 Programming Portfolio Parent Repository [here](https://github.com/pointOfive/STA410_HW/blob/master/README.md#uoft-sta4102102-statistical-computation).
 
 ## Submitting Programming Portfolio Assignment 2
-Submit `.ipynb` file to [MarkUs](https://markus-ds.teach.cs.toronto.edu/) before the end of the calendar day (EoD) on the due date.
+Submit `sta410hw2.ipynb` file to [MarkUs](https://markus-ds.teach.cs.toronto.edu/) before the end of the calendar day (EoD) on the due date.
 
 [Programming Portfolio Assignment 2](sta410hw2.ipynb) explores the quintessential algorithms
 underlying the computational efficiency of the following standard use cases for function:
@@ -15,14 +15,16 @@ underlying the computational efficiency of the following standard use cases for 
 4. Time-benchmarking commonly used built-in functions
 
 ### Accessing Programming Portfolio Assignment 2
-UofT students may access this the collection of programming problems with the [UofT JupyterHub](https://jupyter.utoronto.ca) via
+UofT students may access this the collection of programming problems with the [UofT JupyterHub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw2&branch=main) or [UofT JupyterLab](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw2&branch=main&urlpath=/lab/tree/sta410hw2) via
 
-> https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw2&branch=main
+> [JupyterHub] https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw2&branch=main
+>
+> [JupyterLab] https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw2&branch=main&urlpath=/lab/tree/sta410hw2
 
 Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
-If for some reason JupyterHub is not loading the repository, you can delete and reload repositories (after downloading and saving what you need).  
+If for some reason JupyterHub/Lab is not loading the repository, you can delete and reload repositories (after downloading and saving your work).  
 
-> From JupyterHub, open a new terminal with `New` > `Terminal` and then use `yes y | rm -r <path to directory to delete>` to a delete the repository directory.
+> From JupyterHub/Lab, open a new terminal with `New` > `Terminal` and then use `yes y | rm -r <path to directory to delete>` to a delete the repository directory.
 
 Alternatively, the programming problems may also be accessed without UofT authentication using 
 [Google Colab](https://colab.research.google.com) via
